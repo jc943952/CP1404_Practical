@@ -36,6 +36,7 @@ def process_champions_data(data):
         number_of_champions[champion_name] = number_of_champions.get(champion_name, 0) + 1
     return number_of_champions
 
+
 def process_countries_data(data):
     countries = {row[3] for row in data}
     return sorted(countries)
