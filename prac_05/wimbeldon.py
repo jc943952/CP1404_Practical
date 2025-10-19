@@ -12,12 +12,12 @@ def main():
     number_of_champions = process_champions_data(data)
     countries = process_countries_data(data)
 
-    print("Champions and number of wins:")
+    print('Champions and number of wins:')
     for champion, wins in number_of_champions.items():
-        print(f"{champion}: {wins}")
+        print(f'{champion}: {wins}')
 
 
-    print("\nCountries of champions (alphabetical):")
+    print('\nCountries of champions (alphabetical):')
     print(f' {countries}')
 
 def read_file(filename = FILENAME):
