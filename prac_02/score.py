@@ -22,5 +22,6 @@ def main():
     random_score = random.randint(0, 100)
     print(f'random score: {random_score}')
     print(determine_score(random_score))
+
 if __name__ == '__main__':
     main()
