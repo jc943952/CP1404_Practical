@@ -7,6 +7,7 @@ Actual time: 50 - 60 minutes
 """
 
 FILENAME = 'wimbeldon.csv'
+
 def main():
     data = read_file()
     number_of_champions = process_champions_data(data)
