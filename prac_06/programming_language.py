@@ -1,7 +1,7 @@
 """
 Estimate: 20 minutes
-Start time: 3:45 PM
-Actual time: (record when finished)
+Start time: 4:05pm
+Actual time: 4:40pm
 
 This module defines the ProgrammingLanguage class, which stores basic information
 about a programming language, such as typing style, reflection support, and year of creation.

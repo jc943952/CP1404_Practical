@@ -1,7 +1,7 @@
 """
-Estimate: 10 minutes
+Estimate: 20 minutes
 Start time: 4:05 PM
-Actual time: (record when finished)
+Actual time: 4:40pm
 
 This program demonstrates the use of the ProgrammingLanguage class by creating
 several examples and displaying their details.
