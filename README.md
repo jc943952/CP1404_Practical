@@ -3,7 +3,7 @@
 # CP1404 Practicals Repository
 
 ## About This Repository
-This repository contains my practical exercises for CP1404. It includes projects and exercises completed during the course, demonstrating programming concepts, clean code practices, and problem-solving skills.  
+This repository contains my practical exercises for CP1404. It includes projects and exercises completed during the course. 
 
 ### About Me
 My name is Joshua, I am currently studying Electrical Engineering at JCU.  
