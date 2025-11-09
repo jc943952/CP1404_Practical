@@ -14,3 +14,5 @@ My name is Joshua, I am currently studying Electrical Engineering at JCU.
 - Commenting and Documentation: Proper docstrings and comments help explain the purpose of code. 
 
 ## Useful Links
+- (programming patterns)(https://github.com/CP1404/Starter/wiki/Programming-Patterns)
+- (CP1404 instructions)(https://github.com/CP1404/Practicals/?tab=readme-ov-file#submission)
