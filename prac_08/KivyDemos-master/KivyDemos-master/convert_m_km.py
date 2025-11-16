@@ -6,7 +6,10 @@ from kivy.app import App
 from kivy.lang import Builder
 
 
-MILES_TO_KM = 1.60934
+from kivy.app import App
+from kivy.lang import Builder
+
+MILES_TO_KM = 1.60934  # Correct constant name
 
 class MilesConverterApp(App):
     """ MilesConverterApp is a Kivy App for converting miles to kilometres """
@@ -20,7 +23,7 @@ class MilesConverterApp(App):
         """Update the output label based on the input miles"""
         value = self.get_validated_miles()
         result = value * MILES_TO_KM
-        self.root.ids.output_label.text = str(result)
+        self.root.ids.output_label.text = str(round(result, 3))  # rounded nicely
 
     def handle_increment(self, change):
         """Handle Up/Down buttons"""
