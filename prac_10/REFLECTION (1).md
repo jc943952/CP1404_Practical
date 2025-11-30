@@ -42,7 +42,8 @@ For each one, write a short explanation of what was good about your review.
 
 ### Explanation
 
-...
+    I did not give the most comments for this code, However the code was function with just minor things
+    that could have improved on such as docstrings and naming convetion
 
 ### Good Code Review 2
 
@@ -50,7 +51,8 @@ For each one, write a short explanation of what was good about your review.
 
 ### Explanation
 
-...
+    This code review was not the greatest however these were the only two reviews i did due to not being    
+    mentioned for code reviews, there was a mistake in this one that i have reflected on.
 
 ## Practicals
 
